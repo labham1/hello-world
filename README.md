@@ -2,4 +2,4 @@
 
 Hi reader!
 
-Me labham, hacking is not my profession but it's my passion.
+Me labham, hacking is not my profession it's my passion.
